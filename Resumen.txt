@@ -1,0 +1,3 @@
+Resumen Proyecto Adrian Iordanov y Adrian Barba
+
+Este proyecto se llama AppDiscovery y trata sobre una pagina en la que cualquier usuario va a poder subir su propia aplicación y descargar las aplicaciones de otros. El objetivo de esta pagina es dar visibilidad a creadores más pequeños y que se puedan dar a conocer en esta industria tan grande. La idea es que habría varios moderadores/administradores que podrían revisar las aplicaciones de los usuarios para que no se suba una aplicación que no cumpla los requisitos.
